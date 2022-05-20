@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jnv59J50CXry+wpEc2s4zN6LCKFPQa3BOVPhmF2Yr5dkuZninha6hYrcajMKCGix0Gu1RI6xn6w79jk+rNdf/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akhil\\Downloads\\HotelApiService-main\\HotelApiService-main\\HotelApiService\\HotelApiService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akhil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
