@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HotelApiService",
+    "\\HotelApiService\\Controllers"
   ],
-  "SelectedNode": "\\HotelApiService.sln",
+  "SelectedNode": "\\HotelApiService",
   "PreviewInSolutionExplorer": false
 }
